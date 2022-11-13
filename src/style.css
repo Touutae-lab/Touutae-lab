@@ -204,3 +204,23 @@ body {
 .inner_link {
 	text-decoration: none;
 }
+
+.skill_logo {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 50px;
+}
+
+.skills_logo {
+	margin-right: 5px;
+}
+
+.bottom_container {
+	margin-left: 10%;
+	margin-top: 10px;
+}
+
+
+.bottom_logo {
+	margin: 10;
+}
