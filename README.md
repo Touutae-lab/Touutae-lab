@@ -27,6 +27,6 @@ you might want to checkout my project summary.
 - [ ] Finished a Game Project :video_game:
 
 ## Contact
-<a href="https://twitter.com/iamtouutae/"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
-<a href="https://www.linkedin.com/in/pantakan-kanprawet-66239720b/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
-
+<a href="https://twitter.com/iamtouutae/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
+<a href="https://www.linkedin.com/in/pantakan-kanprawet-66239720b/"  target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
+<a href="mailto:pantakan.totae@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/></a>
