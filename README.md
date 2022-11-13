@@ -7,17 +7,16 @@
 - :bow: Guts, you need to win Griffith and save her...
 - :seedling: I'm Currently studying in CUDA, Vulkan And Phy-x...
 
-you might want to checkout my project summary.
+you might want to checkout my project summary website. [Here](https://touutae-lab.github.io/Touutae-lab/) is my online resume.
 <br/>
-
 
 <table>
     <tr>
-        <th>My Project Summary Page</th>
+        <th>My Project Summary Website</th>
     </tr>
     <tr>
         <td>
-            <a href="https://touutae-lab.github.io/Touutae-lab/"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="240" height="120"/></a>
+            <a href="https://touutae-lab.github.io/Touutae-Portfolio/"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="240" height="120"/></a>
         </td>
     </tr>
 </table>
