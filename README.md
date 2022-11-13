@@ -17,7 +17,7 @@ you might want to checkout my project summary.
     </tr>
     <tr>
         <td>
-            <a href="https://touutae-lab.github.io/Touutae-lab/"><img src="https://iconape.com/wp-content/files/ku/367643/png/367643.png"/></a>
+            <a href="https://touutae-lab.github.io/Touutae-lab/"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="240" height="120"/></a>
         </td>
     </tr>
 </table>
