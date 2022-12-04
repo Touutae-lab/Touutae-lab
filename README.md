@@ -5,7 +5,7 @@
 - :left_speech_bubble: Let's talk about Deep Learning and Robotics Research!
 - :heart: Turn-based or RTS game is totally my type!
 - :bow: Guts, you need to win Griffith and save her...
-- :seedling: I'm Currently studying in CUDA, Vulkan And Phy-x...
+- :seedling: I'm Currently focusing on Kubernetes Certificate
 
 [Here](https://touutae-lab.github.io/Touutae-lab/) is my online resume.
 you might want to checkout my project summary website below.
