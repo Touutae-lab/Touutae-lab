@@ -14,10 +14,14 @@ you might want to checkout my project summary website below.
 <table>
     <tr>
         <th>My Project Summary Website</th>
+        <th>My Blogs</th>
     </tr>
     <tr>
         <td>
             <a href="https://touutae-lab.github.io/Touutae-Portfolio/"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="240" height="120"/></a>
+        </td>
+        <td>
+            <a href=https://medium.com/@touutae><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" width="240" height="120"></a>
         </td>
     </tr>
 </table>
