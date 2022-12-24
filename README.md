@@ -5,8 +5,9 @@
 - :left_speech_bubble: Let's talk about Deep Learning and Robotics Research!
 - :heart: Turn-based or RTS game is totally my type!
 - :bow: Guts, you need to win Griffith and save her...
-- :seedling: I'm Currently focusing on CyberSecurity Check my TryHackMe account [Here](https://tryhackme.com/p/touutae)
+- :seedling: I'm Currently focusing on CyberSecurity!
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/touutae.png" alt="TryHackMe">
 [Here](https://touutae-lab.github.io/Touutae-lab/) is my online resume.
 you might want to checkout my project summary website below.
 <br/>
@@ -25,6 +26,7 @@ you might want to checkout my project summary website below.
         </td>
     </tr>
 </table>
+
 
 ## My Goal!
 - [ ] Graduation :tada::tada::tada:
