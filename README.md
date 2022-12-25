@@ -28,7 +28,7 @@ you might want to checkout my project summary website below.
 
 
 ## My badge !
-<script src="https://tryhackme.com/badge/1558311"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/touutae.png" alt="TryHackMe">
 
 ## Contact
 <a href="https://twitter.com/iamtouutae/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
