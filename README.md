@@ -28,7 +28,11 @@ you might want to checkout my project summary website below.
 
 
 ## My badge !
-<img src="https://tryhackme-badges.s3.amazonaws.com/touutae.png" alt="TryHackMe">
+![tryhackme stats](https://github.com/Touutae-lab/Touutae-lab/blob/main/src/file/touutae.png)
+
+## Stat
+![](https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Touutae-lab/github-stat/blob/master/generated/languages.svg#gh-dark-mode-only)
 
 ## Contact
 <a href="https://twitter.com/iamtouutae/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
