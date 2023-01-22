@@ -19,7 +19,7 @@ you might want to checkout my project summary website below.
     </tr>
     <tr>
         <td>
-            <a href="https://touutae-lab.github.io/Touutae-Portfolio/"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="240" height="120"/></a>
+            <a href="https://www.pantakan.com"><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" width="240" height="120"/></a>
         </td>
         <td>
             <a href=https://medium.com/@touutae><img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" width="240" height="120"></a>
