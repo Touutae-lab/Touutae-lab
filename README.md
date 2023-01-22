@@ -14,8 +14,8 @@ you might want to checkout my project summary website below.
 
 <table>
     <tr>
-        <th>My Project Summary Website</th>
-        <th>My Blogs</th>
+        <th>Personal Website</th>
+        <th>Medium</th>
     </tr>
     <tr>
         <td>
