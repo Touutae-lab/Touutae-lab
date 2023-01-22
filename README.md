@@ -33,8 +33,8 @@ you might want to checkout my project summary website below.
 
 ## Stat
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=default#gh-white-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=dark)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=default)](https://git.io/streak-stats#gh-white-mode-only)
 
 # Detailed Statistic
 ![](https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-dark-mode-only)
