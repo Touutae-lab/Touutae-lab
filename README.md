@@ -31,16 +31,50 @@ you might want to checkout my project summary website below.
 ## My badge !
 ![tryhackme stats](https://github.com/Touutae-lab/Touutae-lab/blob/main/src/file/touutae.png)
 
-## Stat
+## Streak
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=touutae-lab&theme=highcontrast">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=touutae-lab&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=touutae-lab&show_icons=true">
+</picture>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=dark)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=default)](https://git.io/streak-stats#gh-white-mode-only)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=touutae-lab&show_icons=true&theme=vision-friendly-dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=touutae-lab&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
-# Detailed Statistic
-![](https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Touutae-lab/github-stat/blob/master/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-white-mode-only)
-![](https://github.com/Touutae-lab/github-stat/blob/master/generated/languages.svg#gh-white-mode-only)
+## Detailed Statistic
+<picture>
+<source 
+  srcset="https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-dark-mode-only"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-white-mode-only"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg" />
+</picture>
+
+<picture>
+<source 
+  srcset="https://github.com/Touutae-lab/github-stat/blob/master/generated/languages.svg#gh-dark-mode-only"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github.com/Touutae-lab/github-stat/blob/master/generated/languages.svg#gh-white-mode-only"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg" />
+</picture>
+
 ## Contact
 <a href="https://twitter.com/iamtouutae/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
 <a href="https://www.linkedin.com/in/pantakan-kanprawet-66239720b/"  target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
