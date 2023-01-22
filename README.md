@@ -1,4 +1,5 @@
 # Hi there :wave:, I'm Pantakan kanprawet.
+![](https://komarev.com/ghpvc/?username=Touutae-lab&style=for-the-badge&color=orange)
 
 :whale: I'm Computer Science student from Thailand, Currently focusing on Deep Learning application in Robotics & Computer Vision fields.
 
@@ -31,9 +32,15 @@ you might want to checkout my project summary website below.
 ![tryhackme stats](https://github.com/Touutae-lab/Touutae-lab/blob/main/src/file/touutae.png)
 
 ## Stat
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=touutae-lab&theme=default#gh-white-mode-only)](https://git.io/streak-stats)
+
+# Detailed Statistic
 ![](https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/Touutae-lab/github-stat/blob/master/generated/languages.svg#gh-dark-mode-only)
-
+![](https://github.com/Touutae-lab/github-stat/blob/master/generated/overview.svg#gh-white-mode-only)
+![](https://github.com/Touutae-lab/github-stat/blob/master/generated/languages.svg#gh-white-mode-only)
 ## Contact
 <a href="https://twitter.com/iamtouutae/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
 <a href="https://www.linkedin.com/in/pantakan-kanprawet-66239720b/"  target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
