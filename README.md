@@ -4,12 +4,13 @@
 :whale: I'm Computer Science student from Thailand, Currently focusing on Deep Learning application in Robotics & Computer Vision fields.
 
 - :left_speech_bubble: Let's talk about Deep Learning and Robotics Research!
+- :love_letter: Implement the life cycle of cloud infrastructure and analysis software, and then make improvements.
 - :heart: Turn-based or RTS game is totally my type!
 - :bow: Guts, you need to win Griffith and save her...
 - :seedling: I'm Currently focusing on CyberSecurity You can check out my account [Here](https://tryhackme.com/p/touutae)!
 
 [Here](https://touutae-lab.github.io/Touutae-lab/) is my online resume.
-you might want to checkout my project summary website below.
+you might want to checkout my presonal website below.
 <br/>
 
 <table>
