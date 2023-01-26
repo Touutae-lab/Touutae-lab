@@ -37,14 +37,14 @@ you might want to checkout my presonal website below.
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=touutae-lab&show_icons=true&theme=vision-friendly-dark"
+  srcset="https://github-readme-stats-touutae-touutae-lab.vercel.app/api?username=touutae-lab&show_icons=true&theme=vision-friendly-dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=touutae-lab&show_icons=true"
+  srcset="https://github-readme-stats-touutae-touutae-lab.vercel.app/api?username=touutae-lab&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats-touutae-touutae-lab.vercel.app/api?username=touutae-lab&show_icons=true" />
 </picture>
 
 ## Detailed Statistic
