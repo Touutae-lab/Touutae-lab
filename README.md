@@ -1,7 +1,7 @@
 # Hi there :wave:, I'm Pantakan kanprawet.
 ![](https://komarev.com/ghpvc/?username=Touutae-lab&style=for-the-badge&color=orange)
 
-:whale: I'm Computer Science student from Thailand, Currently focusing on Cloud.
+:whale: I'm Computer Science student from Thailand, Currently focusing on Cloud Infastructure.
 
 - :left_speech_bubble: Let's talk about Deep Learning and Robotics Research or Cloud if you want to!
 - :love_letter: Implement the life cycle of cloud infrastructure and analysis software, and then make improvements.
