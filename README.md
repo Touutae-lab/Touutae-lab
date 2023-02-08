@@ -1,9 +1,9 @@
 # Hi there :wave:, I'm Pantakan kanprawet.
 ![](https://komarev.com/ghpvc/?username=Touutae-lab&style=for-the-badge&color=orange)
 
-:whale: I'm Computer Science student from Thailand, Currently focusing on Deep Learning application in Robotics & Computer Vision fields.
+:whale: I'm Computer Science student from Thailand, Currently focusing on Cloud.
 
-- :left_speech_bubble: Let's talk about Deep Learning and Robotics Research!
+- :left_speech_bubble: Let's talk about Deep Learning and Robotics Research or Cloud if you want to!
 - :love_letter: Implement the life cycle of cloud infrastructure and analysis software, and then make improvements.
 - :heart: Turn-based or RTS game is totally my type!
 - :bow: Guts, you need to win Griffith and save her...
