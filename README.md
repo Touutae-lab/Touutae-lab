@@ -26,7 +26,7 @@ you might want to checkout my presonal website below.
 
 
 ## My badge !
-![tryhackme stats](https://github.com/Touutae-lab/Touutae-lab/blob/main/src/file/touutae.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/touutae.png" alt="TryHackMe">
 
 ## Streak
 <picture>
