@@ -7,7 +7,7 @@
 - :love_letter: Implement the life cycle of cloud infrastructure and analysis software, and then make improvements.
 - :heart: Turn-based or RTS game is totally my type!
 - :bow: Guts, you need to win Griffith and save her...
-- :seedling: I'm Currently focusing on Java & Golang Since i'm a Java Lover <3
+- :seedling: I'm Currently focusing on Java & Golang Since i'm a Java / Go Lover <3
 
 [Here](https://touutae-lab.github.io/Touutae-lab/) is my online resume.
 you might want to checkout my presonal website below.
