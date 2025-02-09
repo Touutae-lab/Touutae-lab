@@ -1,4 +1,4 @@
-# Hi there :wave:, I'm Tom Professional Stand User, specialized in ZA WARUDO techniques, excels in over-the-top posing and shouting 'ORA ORA ORA!'
+# Hi there :wave:, I'm Tom Professional Stand User, specialized in ZA WARUDO techniques, excels in over-the-top posing and shouting 'MUDA MUDA!'
 ![](https://komarev.com/ghpvc/?username=Touutae-lab&style=for-the-badge&color=orange)
 
 :whale: Some random dude from thailand who love open source and innovation :3 🤍
