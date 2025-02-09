@@ -1,16 +1,14 @@
-# Hi there :wave:, I'm Pantakan kanprawet.
+# Hi there :wave:, I'm Tom Professional Stand User, specialized in ZA WARUDO techniques, excels in over-the-top posing and shouting 'ORA ORA ORA!'
 ![](https://komarev.com/ghpvc/?username=Touutae-lab&style=for-the-badge&color=orange)
 
-:whale: I'm Computer Science student from Thailand, Currently focusing on Cloud Infastructure.
+:whale: Some random dude from thailand who love open source and innovation :3 🤍
 
-- :left_speech_bubble: Let's talk about Deep Learning and Robotics Research or Cloud if you want to!
-- :love_letter: Implement the life cycle of cloud infrastructure and analysis software, and then make improvements.
-- :heart: Turn-based or RTS game is totally my type!
-- :bow: Guts, you need to win Griffith and save her...
-- :seedling: I'm Currently focusing on Java & Golang Since i'm a Java / Go Lover <3
+- :left_speech_bubble: Let's talk about anything that sound cleaver....
+- :love_letter: Not a specialist but a dude who do everything
+- :heart: Shout out dude from here who build amazing thing https://www.paradoxinteractive.com/
 
-[Here](https://touutae-lab.github.io/Touutae-lab/) is my online resume.
-you might want to checkout my presonal website below.
+[Here](https://touutae-lab.github.io/Touutae-lab/) <- Please don't click, i won't forget you, it for memorils purpose
+
 <br/>
 
 <table>
