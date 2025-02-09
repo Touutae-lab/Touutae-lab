@@ -7,7 +7,7 @@
 - :love_letter: Not a specialist but a dude who do everything
 - :heart: Shout out dude from here who build amazing thing https://www.paradoxinteractive.com/
 
-[Here](https://touutae-lab.github.io/Touutae-lab/) <- Please don't click, i won't forget you, it for memorils purpose
+[Here](https://touutae-lab.github.io/Touutae-lab/) <- Please don't click. I won't forget you—it's for memorial purposes.
 
 <br/>
 
@@ -74,5 +74,3 @@
 <a href="https://twitter.com/iamtouutae/" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg"/></a>
 <a href="https://www.linkedin.com/in/pantakan-kanprawet-66239720b/"  target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"/></a>
 <a href="mailto:pantakan.totae@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/></a>
-
-![image](https://github.com/Touutae-lab/Touutae-lab/assets/58826535/475adef9-41d4-428c-89ba-1fa42aaf36c1)
